@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh](https://www.linkedin.com/in/carlos-dasilva-95865416a
+[linkedin]: www.linkedin.com/in/carlos-dasilva-95865416a
