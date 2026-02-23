@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlos, an <a href=" https://linkedin.com/in/carlos-dasilva-95865416a">Future IT Professional</a>!</h1>
+<h1>Hi, I'm Carlos, a <a href=" https://linkedin.com/in/carlos-dasilva-95865416a">Future IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
