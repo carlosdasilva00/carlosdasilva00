@@ -6,7 +6,7 @@
   - [Configuring VMs Within Azure](https://github.com/carlosdasilva00/configure-ad)
 
 - <b>osTicket (Help Desk Ticketing System) Install </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/carlosdasilva00/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/carlosdasilva00/ticket-lifecycle)
 
 <h2>Connect with me:</h2>
 
