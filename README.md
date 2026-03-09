@@ -2,10 +2,8 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
-  - [Configuring VMs Within Azure](https://github.com/carlosdasilva00/configure-ad)
 
-- <b>osTicket (Help Desk Ticketing System) Install </b>
+- <b>osTicket (Help Desk Ticketing System) Install Guide </b>
   - [osTicket: Prerequisites and Installation](https://github.com/carlosdasilva00/ticket-lifecycle)
 
 <h2>Connect with me:</h2>
